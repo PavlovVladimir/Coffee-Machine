@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Finding the max number" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems/Frequency of characters" />
+            <option value="$PROJECT_DIR$/Problems/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Problems/ListIterator - 2" />
+            <option value="$PROJECT_DIR$/Problems/Multiple swaps" />
+            <option value="$PROJECT_DIR$/Problems/Reversed list" />
+            <option value="$PROJECT_DIR$/Problems/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Problems/The first index of a sublist" />
+            <option value="$PROJECT_DIR$/Problems/The longest string in the list" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

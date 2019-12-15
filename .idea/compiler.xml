@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Finding_the_max_number_main" target="11" />
+      <module name="Problems-Finding_the_max_number_test" target="11" />
+      <module name="Problems-Fizz_Buzz_main" target="11" />
+      <module name="Problems-Fizz_Buzz_test" target="11" />
+      <module name="Problems-Frequency_of_characters_main" target="11" />
+      <module name="Problems-Frequency_of_characters_test" target="11" />
+      <module name="Problems-Getting_the_max_element_of_a_stack_main" target="11" />
+      <module name="Problems-Getting_the_max_element_of_a_stack_test" target="11" />
+      <module name="Problems-ListIterator_-_2_main" target="11" />
+      <module name="Problems-ListIterator_-_2_test" target="11" />
+      <module name="Problems-Multiple_swaps_main" target="11" />
+      <module name="Problems-Multiple_swaps_test" target="11" />
+      <module name="Problems-Reversed_list_main" target="11" />
+      <module name="Problems-Reversed_list_test" target="11" />
+      <module name="Problems-Split_a_list_into_sublists_main" target="11" />
+      <module name="Problems-Split_a_list_into_sublists_test" target="11" />
+      <module name="Problems-The_first_index_of_a_sublist_main" target="11" />
+      <module name="Problems-The_first_index_of_a_sublist_test" target="11" />
+      <module name="Problems-The_longest_string_in_the_list_main" target="11" />
+      <module name="Problems-The_longest_string_in_the_list_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
